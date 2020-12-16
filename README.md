@@ -26,6 +26,7 @@
 
 **Tests**
 - 19/22 of the provided tests are currently passing 
+    - the specific user ones "admin" "editor" "user" are the tests that are failing
 
 
 **Additonal Information**
